@@ -1,0 +1,10 @@
+body {
+    margin: 0;
+    background-color: #8CC4FF
+}
+.header {
+    padding: 10px;
+    /*Set the height*/
+    height: 30px;
+    background-color: #62AEFF
+}
