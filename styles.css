@@ -8,4 +8,7 @@ body {
     height: 30px;
     background-color: #62AEFF;
     font-size: 25px;
+    font-family: 'Abel', sans-serif;
+    font-weight: bold;
+    color: #FFFFFF
 }
