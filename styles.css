@@ -1,10 +1,11 @@
 body {
     margin: 0;
-    background-color: #8CC4FF
+    background-color: #8CC4FF;
 }
-.header {
+.header, header {
     padding: 10px;
     /*Set the height*/
     height: 30px;
-    background-color: #62AEFF
+    background-color: #62AEFF;
+    font-size: 25px;
 }
