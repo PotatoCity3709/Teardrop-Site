@@ -1,6 +1,7 @@
 body {
     margin: 0;
     background-color: #8CC4FF;
+    /*font-family: 'Courier New', Courier, monospace;*/
 }
 .header, header {
     padding: 10px;
@@ -10,5 +11,5 @@ body {
     font-size: 25px;
     font-family: 'Abel', sans-serif;
     font-weight: bold;
-    color: #FFFFFF
+    color: #FFFFFF;
 }
