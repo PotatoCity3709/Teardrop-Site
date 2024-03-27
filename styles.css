@@ -15,3 +15,13 @@ body {
     font-weight: bold;
     color: #FFFFFF;
 }
+.FAQSection {
+    font-size: 18px;
+    font-family: 'ABeeZee', sans-serif;
+    transform: translate(15px, 50px);
+}
+.Home {
+    font-size: 18px;
+    font-family: 'ABeeZee', sans-serif;
+    transform: translate(10px, 65px);
+}
