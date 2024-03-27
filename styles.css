@@ -1,7 +1,9 @@
 body {
     margin: 0;
     background-color: #8CC4FF;
-    /*font-family: 'Courier New', Courier, monospace;*/
+    font-size: 14px;
+    font-family: 'ABeeZee', sans-serif;
+    color: #FFFFFF;
 }
 .header, header {
     padding: 10px;
