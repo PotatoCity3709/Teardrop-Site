@@ -14,7 +14,10 @@ body {
     font-family: 'Abel', sans-serif;
     font-weight: bold;
     color: #FFFFFF;
+    display: flex;
+    justify-content: space-between;
 }
+
 .FAQSection {
     font-size: 18px;
     font-family: 'ABeeZee', sans-serif;
@@ -24,4 +27,27 @@ body {
     font-size: 18px;
     font-family: 'ABeeZee', sans-serif;
     transform: translate(10px, 65px);
+}
+
+.heading-link-discord {
+    float: right;
+    color: #FFFFFF;
+    text-decoration: none;
+    font-size: 20px;
+    font-family: 'Abel', sans-serif;
+    margin-right: -1150px;
+}
+.heading-link-discord:hover {
+    color: #000000;
+}
+.heading-link-github {
+    float: right;
+    color: #FFFFFF;
+    text-decoration: none;
+    font-size: 20px;
+    font-family: 'Abel', sans-serif;
+    margin-right: 10px;
+}
+.heading-link-github:hover {
+    color: #000000;
 }
