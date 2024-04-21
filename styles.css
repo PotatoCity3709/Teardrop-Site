@@ -51,3 +51,16 @@ body {
 .heading-link-github:hover {
     color: #000000;
 }
+.Our-Games {
+    transform: translate(100px, 25px);
+    font-size: 25px;
+    font-family: 'actor', sans-serif;
+}
+.Our-Games-Text {
+    transform: translate(100px, 35px);
+    font-size: 23;
+    font-family: 'actor', sans-serif;
+}
+.Working-On {
+    transform: translate(100px, 170px);
+}
