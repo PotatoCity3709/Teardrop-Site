@@ -63,4 +63,6 @@ body {
 }
 .Working-On {
     transform: translate(100px, 170px);
+    font-size: 25px;
+    font-family: 'actor', sans-serif;
 }
