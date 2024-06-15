@@ -51,6 +51,17 @@ body {
 .heading-link-github:hover {
     color: #000000;
 }
+.heading-link-blog {
+    float: right;
+    color: #FFFFFF;
+    text-decoration: none;
+    fonts-size: 20px;
+    font-family: 'Abel', sans-serif;
+    margin-right: 1160;
+}
+.heading-link-blog:hover {
+    color: #000000;
+}
 .Our-Games {
     transform: translate(100px, 25px);
     font-size: 25px;
